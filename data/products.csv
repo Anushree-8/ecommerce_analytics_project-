@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_cost,unit_price
+P001,Laptop Pro 14,Electronics,760.03,546.74
+P002,Laptop Air 13,Furniture,858.15,787.94
+P003,Monitor 27,Office Supplies,113.15,1064.41
+P004,Wireless Mouse,Accessories,445.45,187.13
+P005,Mechanical Keyboard,Electronics,145.89,831.29
+P006,USB-C Dock,Furniture,52.16,358.18
+P007,Noise Cancelling Headphones,Office Supplies,134.41,540.47
+P008,Smartphone X,Accessories,378.77,635.81
+P009,Tablet Pro,Electronics,258.88,57.81
+P010,Webcam HD,Furniture,556.8,460.99
+P011,Office Chair,Office Supplies,589.69,148.23
+P012,Standing Desk,Accessories,22.26,312.99
+P013,Desk Lamp,Electronics,416.33,485.0
+P014,Bookshelf,Furniture,731.17,465.85
+P015,Filing Cabinet,Office Supplies,482.09,720.35
+P016,Printer Pro,Accessories,29.43,627.86
+P017,Notebook Pack,Electronics,316.9,517.11
+P018,Premium Pen Set,Furniture,99.26,943.73
+P019,Paper Ream,Office Supplies,848.74,46.28
+P020,Storage Box,Accessories,545.22,921.34
+P021,Laptop Pro 14 2,Electronics,263.48,949.32
+P022,Laptop Air 13 2,Furniture,572.8,1116.41
+P023,Monitor 27 2,Office Supplies,883.09,69.97
+P024,Wireless Mouse 2,Accessories,405.99,665.45
+P025,Mechanical Keyboard 2,Electronics,140.6,416.82
+P026,USB-C Dock 2,Furniture,889.01,39.15
+P027,Noise Cancelling Headphones 2,Office Supplies,412.73,1014.33
+P028,Smartphone X 2,Accessories,298.27,586.16
+P029,Tablet Pro 2,Electronics,880.46,580.35
+P030,Webcam HD 2,Furniture,126.52,81.03
+P031,Office Chair 2,Office Supplies,851.42,333.66
+P032,Standing Desk 2,Accessories,458.62,127.03
+P033,Desk Lamp 2,Electronics,387.05,1117.52
+P034,Bookshelf 2,Furniture,457.15,1165.94
+P035,Filing Cabinet 2,Office Supplies,240.36,615.36
+P036,Printer Pro 2,Accessories,774.98,548.94
+P037,Notebook Pack 2,Electronics,258.74,1029.46
+P038,Premium Pen Set 2,Furniture,357.0,646.25
+P039,Paper Ream 2,Office Supplies,879.11,240.05
+P040,Storage Box 2,Accessories,278.25,56.66
+P041,Laptop Pro 14 3,Electronics,358.74,256.22
+P042,Laptop Air 13 3,Furniture,615.23,233.96
+P043,Monitor 27 3,Office Supplies,610.58,330.9
+P044,Wireless Mouse 3,Accessories,326.14,431.66
+P045,Mechanical Keyboard 3,Electronics,647.91,570.48
+P046,USB-C Dock 3,Furniture,331.56,1026.09
+P047,Noise Cancelling Headphones 3,Office Supplies,519.04,272.32
+P048,Smartphone X 3,Accessories,811.08,424.33
+P049,Tablet Pro 3,Electronics,44.69,603.63
+P050,Webcam HD 3,Furniture,120.3,301.39
+P051,Office Chair 3,Office Supplies,674.93,174.29
+P052,Standing Desk 3,Accessories,728.18,1125.55
+P053,Desk Lamp 3,Electronics,549.81,858.22
+P054,Bookshelf 3,Furniture,645.09,1191.51
+P055,Filing Cabinet 3,Office Supplies,313.97,212.17
+P056,Printer Pro 3,Accessories,472.06,649.23
+P057,Notebook Pack 3,Electronics,168.34,743.47
+P058,Premium Pen Set 3,Furniture,22.57,1114.65
+P059,Paper Ream 3,Office Supplies,245.47,66.68
+P060,Storage Box 3,Accessories,106.34,303.49

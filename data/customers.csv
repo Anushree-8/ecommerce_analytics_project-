@@ -1,0 +1,801 @@
+customer_id,customer_name,segment,region,signup_date
+C0001,Customer 0001,Corporate,West,2024-11-03
+C0002,Customer 0002,Consumer,South,2024-10-28
+C0003,Customer 0003,Home Office,West,2024-07-15
+C0004,Customer 0004,Corporate,East,2023-04-13
+C0005,Customer 0005,Consumer,North,2023-08-07
+C0006,Customer 0006,Home Office,North,2024-05-09
+C0007,Customer 0007,Corporate,East,2024-12-30
+C0008,Customer 0008,Corporate,North,2024-08-17
+C0009,Customer 0009,Consumer,East,2023-11-03
+C0010,Customer 0010,Consumer,West,2023-06-21
+C0011,Customer 0011,Consumer,North,2024-12-02
+C0012,Customer 0012,Home Office,North,2023-07-21
+C0013,Customer 0013,Corporate,West,2023-09-07
+C0014,Customer 0014,Corporate,East,2024-12-05
+C0015,Customer 0015,Consumer,North,2024-02-15
+C0016,Customer 0016,Consumer,West,2023-07-13
+C0017,Customer 0017,Corporate,West,2023-01-04
+C0018,Customer 0018,Consumer,East,2023-11-10
+C0019,Customer 0019,Corporate,East,2024-12-20
+C0020,Customer 0020,Corporate,South,2023-11-12
+C0021,Customer 0021,Corporate,North,2024-05-25
+C0022,Customer 0022,Consumer,East,2023-07-04
+C0023,Customer 0023,Home Office,South,2024-07-20
+C0024,Customer 0024,Home Office,East,2024-07-20
+C0025,Customer 0025,Corporate,West,2024-03-20
+C0026,Customer 0026,Consumer,North,2024-07-17
+C0027,Customer 0027,Consumer,East,2024-02-27
+C0028,Customer 0028,Consumer,North,2023-10-04
+C0029,Customer 0029,Consumer,West,2024-06-22
+C0030,Customer 0030,Corporate,South,2024-09-01
+C0031,Customer 0031,Corporate,East,2024-09-05
+C0032,Customer 0032,Home Office,East,2023-06-05
+C0033,Customer 0033,Consumer,South,2024-05-08
+C0034,Customer 0034,Consumer,East,2023-01-04
+C0035,Customer 0035,Consumer,West,2024-02-22
+C0036,Customer 0036,Consumer,East,2024-02-21
+C0037,Customer 0037,Consumer,West,2023-09-23
+C0038,Customer 0038,Consumer,West,2024-12-26
+C0039,Customer 0039,Consumer,South,2024-10-06
+C0040,Customer 0040,Corporate,East,2023-01-29
+C0041,Customer 0041,Consumer,North,2023-06-02
+C0042,Customer 0042,Home Office,West,2023-06-01
+C0043,Customer 0043,Corporate,East,2024-10-17
+C0044,Customer 0044,Consumer,South,2024-01-14
+C0045,Customer 0045,Home Office,North,2024-06-16
+C0046,Customer 0046,Corporate,West,2024-08-14
+C0047,Customer 0047,Consumer,South,2024-07-14
+C0048,Customer 0048,Consumer,East,2023-03-07
+C0049,Customer 0049,Corporate,North,2023-04-13
+C0050,Customer 0050,Consumer,West,2023-10-16
+C0051,Customer 0051,Consumer,North,2023-09-05
+C0052,Customer 0052,Consumer,North,2024-06-29
+C0053,Customer 0053,Corporate,West,2023-04-25
+C0054,Customer 0054,Corporate,West,2023-09-29
+C0055,Customer 0055,Corporate,North,2023-06-22
+C0056,Customer 0056,Corporate,South,2023-05-18
+C0057,Customer 0057,Consumer,West,2023-05-07
+C0058,Customer 0058,Corporate,West,2023-05-23
+C0059,Customer 0059,Consumer,South,2024-02-16
+C0060,Customer 0060,Consumer,East,2023-10-27
+C0061,Customer 0061,Corporate,West,2023-11-14
+C0062,Customer 0062,Consumer,West,2023-12-16
+C0063,Customer 0063,Corporate,West,2024-06-24
+C0064,Customer 0064,Corporate,East,2024-09-21
+C0065,Customer 0065,Corporate,North,2024-01-20
+C0066,Customer 0066,Corporate,West,2024-04-13
+C0067,Customer 0067,Corporate,West,2024-06-23
+C0068,Customer 0068,Consumer,West,2024-05-18
+C0069,Customer 0069,Consumer,North,2023-04-09
+C0070,Customer 0070,Consumer,North,2024-12-18
+C0071,Customer 0071,Consumer,West,2023-05-01
+C0072,Customer 0072,Consumer,North,2023-10-28
+C0073,Customer 0073,Home Office,West,2024-04-21
+C0074,Customer 0074,Consumer,South,2023-10-22
+C0075,Customer 0075,Consumer,West,2023-06-27
+C0076,Customer 0076,Consumer,West,2024-11-05
+C0077,Customer 0077,Consumer,South,2023-02-22
+C0078,Customer 0078,Corporate,South,2023-06-29
+C0079,Customer 0079,Corporate,East,2024-12-25
+C0080,Customer 0080,Corporate,East,2024-06-16
+C0081,Customer 0081,Corporate,South,2023-03-05
+C0082,Customer 0082,Consumer,East,2024-07-04
+C0083,Customer 0083,Corporate,West,2024-12-08
+C0084,Customer 0084,Consumer,South,2023-03-13
+C0085,Customer 0085,Consumer,North,2023-10-30
+C0086,Customer 0086,Consumer,South,2023-12-08
+C0087,Customer 0087,Corporate,South,2023-04-06
+C0088,Customer 0088,Consumer,North,2023-05-27
+C0089,Customer 0089,Consumer,North,2023-05-07
+C0090,Customer 0090,Consumer,East,2023-05-16
+C0091,Customer 0091,Consumer,South,2023-10-22
+C0092,Customer 0092,Corporate,West,2023-12-05
+C0093,Customer 0093,Consumer,South,2023-06-23
+C0094,Customer 0094,Consumer,North,2023-07-31
+C0095,Customer 0095,Consumer,West,2023-05-21
+C0096,Customer 0096,Corporate,West,2024-08-04
+C0097,Customer 0097,Consumer,South,2023-06-04
+C0098,Customer 0098,Consumer,North,2024-10-24
+C0099,Customer 0099,Consumer,North,2024-01-29
+C0100,Customer 0100,Home Office,East,2024-08-08
+C0101,Customer 0101,Home Office,South,2024-04-09
+C0102,Customer 0102,Corporate,South,2023-07-14
+C0103,Customer 0103,Consumer,North,2024-03-14
+C0104,Customer 0104,Home Office,East,2023-07-20
+C0105,Customer 0105,Corporate,West,2023-03-28
+C0106,Customer 0106,Corporate,East,2023-07-05
+C0107,Customer 0107,Consumer,East,2023-07-21
+C0108,Customer 0108,Consumer,North,2023-04-09
+C0109,Customer 0109,Consumer,South,2023-01-18
+C0110,Customer 0110,Home Office,South,2024-11-19
+C0111,Customer 0111,Consumer,West,2024-01-10
+C0112,Customer 0112,Consumer,West,2023-10-21
+C0113,Customer 0113,Consumer,West,2024-11-09
+C0114,Customer 0114,Corporate,West,2023-06-14
+C0115,Customer 0115,Consumer,West,2023-10-22
+C0116,Customer 0116,Home Office,West,2024-09-10
+C0117,Customer 0117,Corporate,North,2024-04-06
+C0118,Customer 0118,Corporate,North,2023-10-19
+C0119,Customer 0119,Consumer,South,2023-07-06
+C0120,Customer 0120,Corporate,East,2023-01-26
+C0121,Customer 0121,Corporate,North,2023-03-04
+C0122,Customer 0122,Corporate,West,2023-04-29
+C0123,Customer 0123,Consumer,East,2024-07-28
+C0124,Customer 0124,Consumer,East,2024-04-11
+C0125,Customer 0125,Consumer,North,2023-11-13
+C0126,Customer 0126,Consumer,South,2024-07-25
+C0127,Customer 0127,Consumer,North,2023-04-28
+C0128,Customer 0128,Consumer,West,2023-06-03
+C0129,Customer 0129,Consumer,East,2023-10-14
+C0130,Customer 0130,Corporate,West,2024-10-31
+C0131,Customer 0131,Consumer,South,2024-03-24
+C0132,Customer 0132,Home Office,South,2024-09-13
+C0133,Customer 0133,Corporate,South,2023-07-01
+C0134,Customer 0134,Consumer,West,2024-09-11
+C0135,Customer 0135,Corporate,West,2023-02-22
+C0136,Customer 0136,Consumer,North,2023-06-16
+C0137,Customer 0137,Home Office,West,2024-01-17
+C0138,Customer 0138,Consumer,North,2023-02-06
+C0139,Customer 0139,Corporate,West,2024-09-18
+C0140,Customer 0140,Consumer,North,2024-09-25
+C0141,Customer 0141,Consumer,South,2024-01-31
+C0142,Customer 0142,Consumer,West,2023-08-12
+C0143,Customer 0143,Home Office,North,2023-03-14
+C0144,Customer 0144,Corporate,South,2024-03-27
+C0145,Customer 0145,Consumer,South,2024-01-28
+C0146,Customer 0146,Consumer,South,2024-07-08
+C0147,Customer 0147,Consumer,West,2024-03-15
+C0148,Customer 0148,Consumer,West,2023-04-04
+C0149,Customer 0149,Consumer,West,2023-03-30
+C0150,Customer 0150,Consumer,South,2024-07-24
+C0151,Customer 0151,Corporate,East,2023-04-27
+C0152,Customer 0152,Home Office,South,2024-11-16
+C0153,Customer 0153,Consumer,South,2023-03-19
+C0154,Customer 0154,Corporate,North,2024-06-15
+C0155,Customer 0155,Consumer,West,2024-12-12
+C0156,Customer 0156,Corporate,West,2023-11-19
+C0157,Customer 0157,Consumer,West,2023-02-11
+C0158,Customer 0158,Corporate,East,2024-10-01
+C0159,Customer 0159,Corporate,East,2023-05-17
+C0160,Customer 0160,Corporate,East,2024-01-21
+C0161,Customer 0161,Consumer,East,2024-12-19
+C0162,Customer 0162,Home Office,South,2024-06-27
+C0163,Customer 0163,Consumer,North,2023-02-03
+C0164,Customer 0164,Consumer,North,2024-08-21
+C0165,Customer 0165,Corporate,West,2023-04-28
+C0166,Customer 0166,Consumer,East,2024-07-01
+C0167,Customer 0167,Corporate,West,2024-03-29
+C0168,Customer 0168,Corporate,North,2023-07-30
+C0169,Customer 0169,Consumer,East,2023-11-06
+C0170,Customer 0170,Home Office,North,2023-03-28
+C0171,Customer 0171,Consumer,South,2024-12-21
+C0172,Customer 0172,Consumer,North,2023-06-23
+C0173,Customer 0173,Consumer,North,2023-08-14
+C0174,Customer 0174,Home Office,West,2024-01-03
+C0175,Customer 0175,Consumer,South,2024-05-05
+C0176,Customer 0176,Consumer,East,2024-01-04
+C0177,Customer 0177,Consumer,South,2024-01-04
+C0178,Customer 0178,Home Office,South,2024-03-01
+C0179,Customer 0179,Home Office,East,2024-09-18
+C0180,Customer 0180,Corporate,North,2023-10-16
+C0181,Customer 0181,Home Office,West,2024-08-30
+C0182,Customer 0182,Home Office,West,2024-07-28
+C0183,Customer 0183,Consumer,West,2024-12-02
+C0184,Customer 0184,Consumer,South,2024-10-28
+C0185,Customer 0185,Corporate,North,2024-08-05
+C0186,Customer 0186,Corporate,West,2023-06-30
+C0187,Customer 0187,Consumer,South,2024-07-19
+C0188,Customer 0188,Consumer,North,2024-06-21
+C0189,Customer 0189,Corporate,South,2023-07-31
+C0190,Customer 0190,Consumer,West,2024-05-09
+C0191,Customer 0191,Home Office,East,2023-07-04
+C0192,Customer 0192,Consumer,West,2024-01-17
+C0193,Customer 0193,Consumer,West,2024-08-04
+C0194,Customer 0194,Home Office,North,2023-05-18
+C0195,Customer 0195,Consumer,West,2023-09-03
+C0196,Customer 0196,Consumer,South,2024-08-03
+C0197,Customer 0197,Corporate,East,2023-11-28
+C0198,Customer 0198,Home Office,North,2024-12-02
+C0199,Customer 0199,Consumer,West,2023-01-06
+C0200,Customer 0200,Consumer,South,2024-06-10
+C0201,Customer 0201,Corporate,North,2024-08-17
+C0202,Customer 0202,Home Office,South,2024-11-01
+C0203,Customer 0203,Consumer,North,2023-04-25
+C0204,Customer 0204,Consumer,North,2024-12-19
+C0205,Customer 0205,Consumer,East,2023-10-14
+C0206,Customer 0206,Consumer,South,2023-09-14
+C0207,Customer 0207,Consumer,West,2023-09-17
+C0208,Customer 0208,Corporate,South,2024-04-10
+C0209,Customer 0209,Consumer,West,2024-04-26
+C0210,Customer 0210,Consumer,South,2023-12-12
+C0211,Customer 0211,Corporate,East,2023-02-21
+C0212,Customer 0212,Corporate,East,2024-12-21
+C0213,Customer 0213,Consumer,South,2023-06-12
+C0214,Customer 0214,Corporate,West,2023-03-10
+C0215,Customer 0215,Corporate,South,2024-03-12
+C0216,Customer 0216,Corporate,North,2023-10-29
+C0217,Customer 0217,Consumer,East,2024-03-25
+C0218,Customer 0218,Consumer,West,2024-10-01
+C0219,Customer 0219,Home Office,North,2023-03-13
+C0220,Customer 0220,Consumer,South,2023-07-27
+C0221,Customer 0221,Consumer,West,2024-01-13
+C0222,Customer 0222,Consumer,West,2024-07-29
+C0223,Customer 0223,Corporate,West,2024-03-14
+C0224,Customer 0224,Home Office,East,2023-10-07
+C0225,Customer 0225,Consumer,East,2024-03-21
+C0226,Customer 0226,Home Office,South,2024-12-16
+C0227,Customer 0227,Consumer,West,2023-12-17
+C0228,Customer 0228,Corporate,South,2024-10-06
+C0229,Customer 0229,Corporate,West,2024-07-23
+C0230,Customer 0230,Consumer,South,2023-08-08
+C0231,Customer 0231,Consumer,East,2023-07-02
+C0232,Customer 0232,Consumer,West,2024-07-16
+C0233,Customer 0233,Home Office,East,2023-06-01
+C0234,Customer 0234,Corporate,West,2023-09-03
+C0235,Customer 0235,Home Office,South,2023-06-21
+C0236,Customer 0236,Corporate,East,2024-03-18
+C0237,Customer 0237,Consumer,South,2023-08-03
+C0238,Customer 0238,Corporate,South,2024-04-25
+C0239,Customer 0239,Consumer,South,2024-11-13
+C0240,Customer 0240,Consumer,North,2024-08-28
+C0241,Customer 0241,Corporate,North,2024-11-23
+C0242,Customer 0242,Corporate,East,2023-01-18
+C0243,Customer 0243,Consumer,East,2023-11-29
+C0244,Customer 0244,Consumer,East,2023-06-10
+C0245,Customer 0245,Corporate,North,2024-11-01
+C0246,Customer 0246,Home Office,South,2024-06-03
+C0247,Customer 0247,Corporate,North,2023-08-22
+C0248,Customer 0248,Consumer,West,2024-02-16
+C0249,Customer 0249,Consumer,West,2024-03-17
+C0250,Customer 0250,Consumer,South,2023-12-28
+C0251,Customer 0251,Corporate,East,2023-12-13
+C0252,Customer 0252,Home Office,North,2023-02-10
+C0253,Customer 0253,Consumer,South,2023-11-27
+C0254,Customer 0254,Consumer,North,2023-09-12
+C0255,Customer 0255,Consumer,South,2024-08-20
+C0256,Customer 0256,Corporate,East,2024-09-23
+C0257,Customer 0257,Corporate,West,2024-07-01
+C0258,Customer 0258,Consumer,North,2023-01-23
+C0259,Customer 0259,Consumer,East,2024-09-06
+C0260,Customer 0260,Corporate,West,2023-10-17
+C0261,Customer 0261,Consumer,West,2023-10-31
+C0262,Customer 0262,Corporate,East,2024-11-20
+C0263,Customer 0263,Consumer,South,2024-09-25
+C0264,Customer 0264,Consumer,East,2023-02-07
+C0265,Customer 0265,Home Office,South,2023-09-20
+C0266,Customer 0266,Consumer,West,2024-07-01
+C0267,Customer 0267,Consumer,South,2024-01-29
+C0268,Customer 0268,Consumer,East,2023-07-08
+C0269,Customer 0269,Consumer,North,2024-01-19
+C0270,Customer 0270,Consumer,South,2024-09-24
+C0271,Customer 0271,Consumer,West,2023-06-13
+C0272,Customer 0272,Consumer,East,2024-06-28
+C0273,Customer 0273,Consumer,South,2024-06-20
+C0274,Customer 0274,Corporate,West,2024-10-08
+C0275,Customer 0275,Corporate,West,2023-08-06
+C0276,Customer 0276,Consumer,South,2023-06-07
+C0277,Customer 0277,Consumer,East,2024-02-04
+C0278,Customer 0278,Consumer,East,2024-01-23
+C0279,Customer 0279,Home Office,East,2023-10-26
+C0280,Customer 0280,Home Office,South,2024-07-22
+C0281,Customer 0281,Consumer,South,2024-08-06
+C0282,Customer 0282,Consumer,West,2023-06-29
+C0283,Customer 0283,Consumer,West,2024-08-03
+C0284,Customer 0284,Consumer,West,2023-06-18
+C0285,Customer 0285,Corporate,West,2023-10-25
+C0286,Customer 0286,Consumer,West,2023-01-20
+C0287,Customer 0287,Consumer,West,2023-09-06
+C0288,Customer 0288,Consumer,West,2024-11-30
+C0289,Customer 0289,Consumer,East,2023-11-20
+C0290,Customer 0290,Consumer,South,2024-06-02
+C0291,Customer 0291,Home Office,South,2023-03-20
+C0292,Customer 0292,Consumer,East,2024-04-08
+C0293,Customer 0293,Home Office,South,2023-09-29
+C0294,Customer 0294,Consumer,South,2024-06-27
+C0295,Customer 0295,Home Office,East,2024-11-08
+C0296,Customer 0296,Home Office,South,2024-01-24
+C0297,Customer 0297,Home Office,North,2023-03-17
+C0298,Customer 0298,Corporate,West,2023-12-14
+C0299,Customer 0299,Corporate,West,2023-03-31
+C0300,Customer 0300,Corporate,North,2023-11-25
+C0301,Customer 0301,Corporate,North,2023-02-14
+C0302,Customer 0302,Consumer,South,2024-04-12
+C0303,Customer 0303,Consumer,West,2023-08-15
+C0304,Customer 0304,Consumer,West,2023-05-28
+C0305,Customer 0305,Home Office,North,2023-01-13
+C0306,Customer 0306,Consumer,West,2024-10-10
+C0307,Customer 0307,Consumer,North,2024-09-03
+C0308,Customer 0308,Corporate,South,2024-08-15
+C0309,Customer 0309,Consumer,West,2023-02-12
+C0310,Customer 0310,Consumer,North,2023-09-13
+C0311,Customer 0311,Consumer,North,2024-12-10
+C0312,Customer 0312,Consumer,South,2024-02-27
+C0313,Customer 0313,Consumer,East,2023-04-04
+C0314,Customer 0314,Consumer,West,2023-04-13
+C0315,Customer 0315,Consumer,West,2023-07-12
+C0316,Customer 0316,Consumer,North,2024-12-10
+C0317,Customer 0317,Consumer,North,2023-05-04
+C0318,Customer 0318,Corporate,West,2024-10-21
+C0319,Customer 0319,Consumer,South,2024-05-09
+C0320,Customer 0320,Home Office,West,2024-11-03
+C0321,Customer 0321,Home Office,East,2024-08-25
+C0322,Customer 0322,Consumer,North,2023-08-31
+C0323,Customer 0323,Consumer,West,2024-08-27
+C0324,Customer 0324,Consumer,North,2023-05-04
+C0325,Customer 0325,Home Office,South,2023-08-01
+C0326,Customer 0326,Corporate,East,2023-06-04
+C0327,Customer 0327,Corporate,East,2023-04-08
+C0328,Customer 0328,Consumer,East,2023-03-07
+C0329,Customer 0329,Corporate,East,2023-05-17
+C0330,Customer 0330,Consumer,West,2023-03-29
+C0331,Customer 0331,Corporate,West,2023-10-05
+C0332,Customer 0332,Consumer,East,2023-02-22
+C0333,Customer 0333,Corporate,North,2023-02-14
+C0334,Customer 0334,Home Office,West,2024-12-23
+C0335,Customer 0335,Consumer,West,2023-03-06
+C0336,Customer 0336,Corporate,South,2023-02-24
+C0337,Customer 0337,Consumer,South,2023-01-22
+C0338,Customer 0338,Corporate,South,2023-04-07
+C0339,Customer 0339,Consumer,North,2024-01-21
+C0340,Customer 0340,Home Office,East,2024-08-26
+C0341,Customer 0341,Consumer,South,2024-06-20
+C0342,Customer 0342,Home Office,West,2024-02-28
+C0343,Customer 0343,Corporate,West,2023-03-04
+C0344,Customer 0344,Corporate,West,2024-07-19
+C0345,Customer 0345,Corporate,South,2023-01-28
+C0346,Customer 0346,Corporate,South,2024-04-05
+C0347,Customer 0347,Home Office,West,2023-10-26
+C0348,Customer 0348,Consumer,West,2024-10-05
+C0349,Customer 0349,Corporate,East,2023-08-13
+C0350,Customer 0350,Consumer,West,2024-04-11
+C0351,Customer 0351,Corporate,North,2023-11-18
+C0352,Customer 0352,Consumer,West,2024-01-17
+C0353,Customer 0353,Corporate,North,2024-11-16
+C0354,Customer 0354,Corporate,North,2024-06-04
+C0355,Customer 0355,Consumer,East,2023-10-30
+C0356,Customer 0356,Consumer,North,2023-11-23
+C0357,Customer 0357,Corporate,North,2024-05-29
+C0358,Customer 0358,Corporate,North,2023-09-10
+C0359,Customer 0359,Consumer,South,2023-05-03
+C0360,Customer 0360,Corporate,West,2023-12-08
+C0361,Customer 0361,Home Office,North,2023-02-19
+C0362,Customer 0362,Consumer,East,2023-05-04
+C0363,Customer 0363,Consumer,West,2023-11-04
+C0364,Customer 0364,Consumer,North,2024-08-04
+C0365,Customer 0365,Corporate,North,2024-07-24
+C0366,Customer 0366,Consumer,West,2023-07-10
+C0367,Customer 0367,Corporate,West,2023-11-05
+C0368,Customer 0368,Corporate,East,2023-04-23
+C0369,Customer 0369,Consumer,West,2024-07-05
+C0370,Customer 0370,Home Office,North,2023-06-29
+C0371,Customer 0371,Corporate,South,2024-08-06
+C0372,Customer 0372,Consumer,West,2024-09-06
+C0373,Customer 0373,Consumer,South,2024-05-18
+C0374,Customer 0374,Consumer,West,2023-08-30
+C0375,Customer 0375,Consumer,East,2024-11-26
+C0376,Customer 0376,Consumer,West,2024-05-15
+C0377,Customer 0377,Home Office,South,2024-04-16
+C0378,Customer 0378,Consumer,South,2024-09-17
+C0379,Customer 0379,Consumer,North,2024-10-05
+C0380,Customer 0380,Corporate,North,2023-02-26
+C0381,Customer 0381,Corporate,West,2024-10-05
+C0382,Customer 0382,Home Office,North,2024-07-12
+C0383,Customer 0383,Corporate,North,2023-05-31
+C0384,Customer 0384,Consumer,North,2023-08-13
+C0385,Customer 0385,Consumer,North,2024-07-03
+C0386,Customer 0386,Home Office,West,2023-06-08
+C0387,Customer 0387,Corporate,South,2023-11-27
+C0388,Customer 0388,Home Office,West,2024-05-17
+C0389,Customer 0389,Consumer,North,2024-04-19
+C0390,Customer 0390,Home Office,East,2024-10-26
+C0391,Customer 0391,Corporate,South,2023-03-23
+C0392,Customer 0392,Consumer,South,2023-08-04
+C0393,Customer 0393,Corporate,West,2024-12-19
+C0394,Customer 0394,Corporate,West,2024-02-20
+C0395,Customer 0395,Consumer,West,2023-07-01
+C0396,Customer 0396,Consumer,North,2023-07-31
+C0397,Customer 0397,Corporate,North,2023-09-05
+C0398,Customer 0398,Consumer,East,2024-02-09
+C0399,Customer 0399,Consumer,South,2023-07-27
+C0400,Customer 0400,Consumer,West,2024-03-29
+C0401,Customer 0401,Consumer,East,2023-11-22
+C0402,Customer 0402,Home Office,East,2024-03-21
+C0403,Customer 0403,Corporate,West,2023-04-24
+C0404,Customer 0404,Consumer,West,2024-03-31
+C0405,Customer 0405,Home Office,North,2024-11-06
+C0406,Customer 0406,Home Office,North,2023-04-09
+C0407,Customer 0407,Consumer,East,2023-08-28
+C0408,Customer 0408,Home Office,East,2024-05-21
+C0409,Customer 0409,Consumer,South,2024-03-26
+C0410,Customer 0410,Home Office,South,2024-05-07
+C0411,Customer 0411,Corporate,West,2024-02-13
+C0412,Customer 0412,Corporate,West,2024-05-13
+C0413,Customer 0413,Consumer,East,2024-03-20
+C0414,Customer 0414,Home Office,South,2023-02-24
+C0415,Customer 0415,Consumer,South,2024-07-02
+C0416,Customer 0416,Consumer,East,2023-11-23
+C0417,Customer 0417,Consumer,South,2023-02-07
+C0418,Customer 0418,Corporate,East,2023-10-26
+C0419,Customer 0419,Consumer,East,2023-11-14
+C0420,Customer 0420,Home Office,North,2023-03-05
+C0421,Customer 0421,Corporate,North,2024-12-28
+C0422,Customer 0422,Consumer,North,2023-06-12
+C0423,Customer 0423,Consumer,West,2023-08-30
+C0424,Customer 0424,Consumer,East,2023-11-18
+C0425,Customer 0425,Corporate,North,2024-08-30
+C0426,Customer 0426,Corporate,West,2024-06-26
+C0427,Customer 0427,Consumer,South,2024-07-16
+C0428,Customer 0428,Home Office,South,2023-06-23
+C0429,Customer 0429,Consumer,West,2024-09-09
+C0430,Customer 0430,Corporate,North,2024-08-28
+C0431,Customer 0431,Home Office,North,2023-12-05
+C0432,Customer 0432,Corporate,East,2024-02-03
+C0433,Customer 0433,Corporate,North,2023-01-28
+C0434,Customer 0434,Home Office,East,2024-07-09
+C0435,Customer 0435,Consumer,North,2024-12-02
+C0436,Customer 0436,Consumer,North,2023-12-11
+C0437,Customer 0437,Consumer,North,2024-01-30
+C0438,Customer 0438,Consumer,South,2023-12-31
+C0439,Customer 0439,Corporate,North,2023-03-02
+C0440,Customer 0440,Corporate,North,2024-03-28
+C0441,Customer 0441,Home Office,West,2024-06-10
+C0442,Customer 0442,Consumer,South,2024-11-08
+C0443,Customer 0443,Corporate,South,2024-11-09
+C0444,Customer 0444,Consumer,North,2023-12-26
+C0445,Customer 0445,Consumer,South,2024-12-01
+C0446,Customer 0446,Corporate,South,2024-01-21
+C0447,Customer 0447,Home Office,East,2024-04-13
+C0448,Customer 0448,Corporate,North,2024-03-15
+C0449,Customer 0449,Consumer,West,2024-12-30
+C0450,Customer 0450,Corporate,West,2024-06-22
+C0451,Customer 0451,Consumer,North,2023-03-29
+C0452,Customer 0452,Home Office,North,2023-02-22
+C0453,Customer 0453,Corporate,North,2023-10-27
+C0454,Customer 0454,Consumer,East,2024-01-12
+C0455,Customer 0455,Consumer,North,2024-05-03
+C0456,Customer 0456,Consumer,West,2023-12-18
+C0457,Customer 0457,Home Office,West,2024-01-11
+C0458,Customer 0458,Consumer,West,2024-11-03
+C0459,Customer 0459,Corporate,East,2023-09-02
+C0460,Customer 0460,Corporate,West,2023-12-27
+C0461,Customer 0461,Corporate,North,2024-02-11
+C0462,Customer 0462,Consumer,South,2023-12-08
+C0463,Customer 0463,Home Office,South,2024-12-07
+C0464,Customer 0464,Consumer,West,2024-12-03
+C0465,Customer 0465,Corporate,East,2024-01-10
+C0466,Customer 0466,Corporate,West,2023-11-25
+C0467,Customer 0467,Corporate,North,2024-03-05
+C0468,Customer 0468,Home Office,West,2023-05-13
+C0469,Customer 0469,Consumer,East,2023-11-07
+C0470,Customer 0470,Consumer,East,2023-06-08
+C0471,Customer 0471,Consumer,West,2023-04-16
+C0472,Customer 0472,Consumer,South,2023-03-11
+C0473,Customer 0473,Consumer,South,2024-03-04
+C0474,Customer 0474,Consumer,East,2023-01-01
+C0475,Customer 0475,Consumer,North,2024-04-16
+C0476,Customer 0476,Consumer,South,2023-11-12
+C0477,Customer 0477,Consumer,North,2023-09-25
+C0478,Customer 0478,Corporate,North,2024-07-15
+C0479,Customer 0479,Corporate,West,2024-01-29
+C0480,Customer 0480,Consumer,East,2024-06-19
+C0481,Customer 0481,Consumer,South,2024-06-01
+C0482,Customer 0482,Consumer,South,2023-01-24
+C0483,Customer 0483,Corporate,South,2023-06-07
+C0484,Customer 0484,Consumer,East,2024-02-21
+C0485,Customer 0485,Consumer,West,2024-12-13
+C0486,Customer 0486,Consumer,West,2023-04-23
+C0487,Customer 0487,Consumer,South,2023-03-19
+C0488,Customer 0488,Consumer,South,2024-11-17
+C0489,Customer 0489,Corporate,South,2024-12-06
+C0490,Customer 0490,Corporate,East,2023-05-03
+C0491,Customer 0491,Corporate,South,2023-10-21
+C0492,Customer 0492,Corporate,East,2024-04-02
+C0493,Customer 0493,Corporate,East,2023-05-23
+C0494,Customer 0494,Consumer,South,2023-08-27
+C0495,Customer 0495,Corporate,South,2023-10-16
+C0496,Customer 0496,Consumer,South,2024-04-13
+C0497,Customer 0497,Consumer,North,2023-08-13
+C0498,Customer 0498,Corporate,North,2023-10-28
+C0499,Customer 0499,Consumer,West,2023-07-31
+C0500,Customer 0500,Consumer,South,2024-07-08
+C0501,Customer 0501,Corporate,North,2023-04-22
+C0502,Customer 0502,Home Office,East,2023-06-18
+C0503,Customer 0503,Home Office,West,2023-07-02
+C0504,Customer 0504,Consumer,South,2024-10-23
+C0505,Customer 0505,Consumer,West,2024-11-20
+C0506,Customer 0506,Corporate,West,2024-01-01
+C0507,Customer 0507,Consumer,East,2023-04-25
+C0508,Customer 0508,Home Office,East,2024-07-05
+C0509,Customer 0509,Consumer,North,2023-12-26
+C0510,Customer 0510,Consumer,West,2024-09-12
+C0511,Customer 0511,Consumer,South,2023-09-20
+C0512,Customer 0512,Home Office,West,2024-12-30
+C0513,Customer 0513,Consumer,East,2024-08-12
+C0514,Customer 0514,Consumer,North,2023-06-13
+C0515,Customer 0515,Consumer,North,2024-06-13
+C0516,Customer 0516,Consumer,East,2023-07-29
+C0517,Customer 0517,Consumer,East,2023-09-13
+C0518,Customer 0518,Corporate,North,2023-07-02
+C0519,Customer 0519,Consumer,West,2024-05-13
+C0520,Customer 0520,Corporate,West,2023-07-11
+C0521,Customer 0521,Home Office,East,2024-04-11
+C0522,Customer 0522,Consumer,South,2024-03-01
+C0523,Customer 0523,Consumer,North,2024-07-02
+C0524,Customer 0524,Corporate,West,2024-12-26
+C0525,Customer 0525,Consumer,South,2023-01-07
+C0526,Customer 0526,Consumer,West,2024-12-23
+C0527,Customer 0527,Home Office,South,2023-03-21
+C0528,Customer 0528,Home Office,East,2024-01-20
+C0529,Customer 0529,Corporate,South,2023-09-06
+C0530,Customer 0530,Consumer,North,2024-04-11
+C0531,Customer 0531,Corporate,West,2024-06-10
+C0532,Customer 0532,Corporate,East,2024-09-19
+C0533,Customer 0533,Consumer,East,2023-10-21
+C0534,Customer 0534,Corporate,West,2024-11-12
+C0535,Customer 0535,Consumer,West,2023-08-24
+C0536,Customer 0536,Consumer,West,2023-05-29
+C0537,Customer 0537,Consumer,North,2023-10-04
+C0538,Customer 0538,Consumer,East,2024-01-21
+C0539,Customer 0539,Consumer,West,2024-05-02
+C0540,Customer 0540,Home Office,South,2024-08-30
+C0541,Customer 0541,Home Office,North,2023-06-14
+C0542,Customer 0542,Corporate,West,2023-08-10
+C0543,Customer 0543,Home Office,East,2024-11-16
+C0544,Customer 0544,Home Office,East,2023-11-18
+C0545,Customer 0545,Consumer,West,2023-06-26
+C0546,Customer 0546,Consumer,East,2024-12-20
+C0547,Customer 0547,Consumer,South,2023-11-24
+C0548,Customer 0548,Consumer,South,2024-12-20
+C0549,Customer 0549,Corporate,South,2024-11-02
+C0550,Customer 0550,Consumer,North,2024-10-23
+C0551,Customer 0551,Consumer,West,2024-02-29
+C0552,Customer 0552,Consumer,West,2024-08-05
+C0553,Customer 0553,Consumer,South,2024-12-02
+C0554,Customer 0554,Home Office,South,2023-07-16
+C0555,Customer 0555,Consumer,West,2023-01-28
+C0556,Customer 0556,Consumer,North,2023-08-23
+C0557,Customer 0557,Consumer,East,2024-04-09
+C0558,Customer 0558,Consumer,South,2024-02-04
+C0559,Customer 0559,Corporate,East,2023-02-28
+C0560,Customer 0560,Consumer,North,2024-02-14
+C0561,Customer 0561,Consumer,East,2023-05-08
+C0562,Customer 0562,Consumer,South,2024-01-05
+C0563,Customer 0563,Home Office,East,2024-02-25
+C0564,Customer 0564,Corporate,North,2024-04-09
+C0565,Customer 0565,Corporate,South,2023-10-29
+C0566,Customer 0566,Corporate,East,2023-10-26
+C0567,Customer 0567,Corporate,North,2024-05-10
+C0568,Customer 0568,Consumer,North,2024-06-30
+C0569,Customer 0569,Consumer,North,2024-08-12
+C0570,Customer 0570,Consumer,South,2023-09-01
+C0571,Customer 0571,Consumer,North,2023-11-06
+C0572,Customer 0572,Home Office,West,2023-08-30
+C0573,Customer 0573,Consumer,South,2024-01-21
+C0574,Customer 0574,Corporate,West,2023-04-03
+C0575,Customer 0575,Home Office,West,2023-11-10
+C0576,Customer 0576,Consumer,North,2023-05-18
+C0577,Customer 0577,Home Office,East,2024-01-24
+C0578,Customer 0578,Corporate,West,2024-09-12
+C0579,Customer 0579,Home Office,East,2024-12-20
+C0580,Customer 0580,Consumer,South,2023-11-22
+C0581,Customer 0581,Consumer,South,2023-02-11
+C0582,Customer 0582,Consumer,North,2023-06-16
+C0583,Customer 0583,Consumer,East,2023-03-18
+C0584,Customer 0584,Consumer,West,2024-07-08
+C0585,Customer 0585,Home Office,West,2024-12-19
+C0586,Customer 0586,Corporate,North,2024-02-09
+C0587,Customer 0587,Consumer,West,2023-05-10
+C0588,Customer 0588,Consumer,South,2023-01-16
+C0589,Customer 0589,Consumer,West,2024-12-13
+C0590,Customer 0590,Consumer,North,2023-08-19
+C0591,Customer 0591,Home Office,West,2023-03-23
+C0592,Customer 0592,Consumer,West,2023-05-10
+C0593,Customer 0593,Consumer,North,2023-07-06
+C0594,Customer 0594,Corporate,North,2024-04-23
+C0595,Customer 0595,Consumer,West,2024-10-13
+C0596,Customer 0596,Consumer,North,2023-07-20
+C0597,Customer 0597,Corporate,East,2024-05-16
+C0598,Customer 0598,Corporate,West,2023-02-17
+C0599,Customer 0599,Home Office,East,2023-01-08
+C0600,Customer 0600,Corporate,South,2023-02-10
+C0601,Customer 0601,Consumer,South,2024-11-04
+C0602,Customer 0602,Corporate,North,2024-02-29
+C0603,Customer 0603,Home Office,West,2024-08-10
+C0604,Customer 0604,Corporate,South,2023-01-16
+C0605,Customer 0605,Home Office,North,2023-01-17
+C0606,Customer 0606,Corporate,South,2024-09-11
+C0607,Customer 0607,Home Office,West,2023-03-16
+C0608,Customer 0608,Consumer,North,2023-04-24
+C0609,Customer 0609,Corporate,West,2024-01-14
+C0610,Customer 0610,Consumer,West,2024-03-18
+C0611,Customer 0611,Corporate,West,2023-06-17
+C0612,Customer 0612,Corporate,West,2023-11-21
+C0613,Customer 0613,Home Office,West,2024-05-07
+C0614,Customer 0614,Home Office,West,2023-11-20
+C0615,Customer 0615,Consumer,North,2023-10-07
+C0616,Customer 0616,Corporate,West,2023-02-22
+C0617,Customer 0617,Corporate,East,2023-11-26
+C0618,Customer 0618,Consumer,East,2024-08-09
+C0619,Customer 0619,Consumer,West,2024-04-02
+C0620,Customer 0620,Consumer,West,2024-10-13
+C0621,Customer 0621,Corporate,West,2023-04-03
+C0622,Customer 0622,Consumer,East,2023-01-09
+C0623,Customer 0623,Home Office,South,2024-02-05
+C0624,Customer 0624,Consumer,South,2023-05-11
+C0625,Customer 0625,Home Office,South,2024-03-09
+C0626,Customer 0626,Consumer,South,2024-10-21
+C0627,Customer 0627,Corporate,North,2023-09-04
+C0628,Customer 0628,Consumer,North,2024-02-06
+C0629,Customer 0629,Corporate,West,2024-05-12
+C0630,Customer 0630,Corporate,South,2023-04-20
+C0631,Customer 0631,Home Office,West,2024-10-17
+C0632,Customer 0632,Corporate,East,2023-05-29
+C0633,Customer 0633,Consumer,North,2024-08-13
+C0634,Customer 0634,Consumer,North,2024-04-26
+C0635,Customer 0635,Consumer,North,2023-04-13
+C0636,Customer 0636,Consumer,West,2024-06-13
+C0637,Customer 0637,Corporate,North,2023-05-24
+C0638,Customer 0638,Corporate,East,2024-03-13
+C0639,Customer 0639,Corporate,West,2024-12-01
+C0640,Customer 0640,Home Office,West,2024-11-26
+C0641,Customer 0641,Corporate,North,2024-09-28
+C0642,Customer 0642,Corporate,North,2023-12-27
+C0643,Customer 0643,Consumer,North,2024-02-13
+C0644,Customer 0644,Consumer,North,2023-08-08
+C0645,Customer 0645,Corporate,North,2024-11-03
+C0646,Customer 0646,Home Office,East,2023-12-15
+C0647,Customer 0647,Consumer,West,2024-07-17
+C0648,Customer 0648,Consumer,East,2023-09-20
+C0649,Customer 0649,Corporate,East,2024-06-24
+C0650,Customer 0650,Consumer,North,2023-06-13
+C0651,Customer 0651,Consumer,West,2024-06-19
+C0652,Customer 0652,Home Office,East,2023-02-03
+C0653,Customer 0653,Corporate,West,2023-03-18
+C0654,Customer 0654,Consumer,West,2023-09-15
+C0655,Customer 0655,Home Office,South,2023-12-18
+C0656,Customer 0656,Consumer,North,2024-06-03
+C0657,Customer 0657,Home Office,North,2023-09-20
+C0658,Customer 0658,Consumer,South,2023-01-14
+C0659,Customer 0659,Corporate,West,2023-08-26
+C0660,Customer 0660,Consumer,South,2023-11-17
+C0661,Customer 0661,Consumer,West,2024-02-01
+C0662,Customer 0662,Home Office,East,2024-04-15
+C0663,Customer 0663,Consumer,North,2023-06-30
+C0664,Customer 0664,Consumer,South,2024-03-21
+C0665,Customer 0665,Consumer,East,2024-04-06
+C0666,Customer 0666,Corporate,East,2024-07-20
+C0667,Customer 0667,Corporate,South,2024-01-17
+C0668,Customer 0668,Home Office,North,2024-08-14
+C0669,Customer 0669,Consumer,West,2023-06-11
+C0670,Customer 0670,Consumer,North,2024-06-03
+C0671,Customer 0671,Consumer,West,2023-02-03
+C0672,Customer 0672,Corporate,North,2023-03-17
+C0673,Customer 0673,Home Office,North,2024-09-23
+C0674,Customer 0674,Corporate,East,2023-12-13
+C0675,Customer 0675,Corporate,East,2024-03-29
+C0676,Customer 0676,Consumer,East,2024-03-16
+C0677,Customer 0677,Home Office,South,2024-05-22
+C0678,Customer 0678,Consumer,West,2023-06-29
+C0679,Customer 0679,Consumer,East,2023-05-11
+C0680,Customer 0680,Consumer,South,2023-02-01
+C0681,Customer 0681,Consumer,South,2024-09-23
+C0682,Customer 0682,Consumer,North,2023-06-13
+C0683,Customer 0683,Consumer,East,2024-02-24
+C0684,Customer 0684,Consumer,North,2023-11-29
+C0685,Customer 0685,Corporate,East,2023-04-29
+C0686,Customer 0686,Consumer,North,2023-10-30
+C0687,Customer 0687,Consumer,West,2023-03-02
+C0688,Customer 0688,Home Office,South,2023-05-09
+C0689,Customer 0689,Corporate,West,2023-04-12
+C0690,Customer 0690,Consumer,South,2024-08-24
+C0691,Customer 0691,Consumer,North,2024-02-19
+C0692,Customer 0692,Home Office,West,2024-11-06
+C0693,Customer 0693,Consumer,East,2023-11-15
+C0694,Customer 0694,Consumer,West,2023-05-27
+C0695,Customer 0695,Home Office,South,2024-03-20
+C0696,Customer 0696,Consumer,East,2024-11-09
+C0697,Customer 0697,Corporate,West,2024-01-24
+C0698,Customer 0698,Corporate,East,2023-01-14
+C0699,Customer 0699,Corporate,South,2023-08-10
+C0700,Customer 0700,Consumer,East,2024-11-06
+C0701,Customer 0701,Consumer,East,2024-01-14
+C0702,Customer 0702,Consumer,West,2024-11-25
+C0703,Customer 0703,Consumer,South,2024-01-07
+C0704,Customer 0704,Home Office,South,2023-01-09
+C0705,Customer 0705,Consumer,West,2024-09-29
+C0706,Customer 0706,Corporate,East,2024-07-11
+C0707,Customer 0707,Corporate,West,2024-06-06
+C0708,Customer 0708,Corporate,South,2024-12-09
+C0709,Customer 0709,Consumer,North,2023-05-24
+C0710,Customer 0710,Consumer,West,2024-10-23
+C0711,Customer 0711,Home Office,North,2023-06-19
+C0712,Customer 0712,Corporate,North,2024-12-09
+C0713,Customer 0713,Corporate,East,2023-05-20
+C0714,Customer 0714,Home Office,West,2024-02-06
+C0715,Customer 0715,Corporate,West,2024-07-30
+C0716,Customer 0716,Consumer,South,2023-02-27
+C0717,Customer 0717,Corporate,North,2023-02-18
+C0718,Customer 0718,Consumer,West,2024-09-12
+C0719,Customer 0719,Corporate,North,2023-02-14
+C0720,Customer 0720,Home Office,North,2024-03-24
+C0721,Customer 0721,Consumer,South,2024-11-15
+C0722,Customer 0722,Consumer,East,2024-03-24
+C0723,Customer 0723,Consumer,West,2023-12-18
+C0724,Customer 0724,Home Office,West,2023-11-01
+C0725,Customer 0725,Consumer,West,2024-04-10
+C0726,Customer 0726,Consumer,North,2024-02-22
+C0727,Customer 0727,Consumer,South,2024-01-02
+C0728,Customer 0728,Consumer,South,2023-04-23
+C0729,Customer 0729,Consumer,North,2024-04-28
+C0730,Customer 0730,Consumer,South,2024-06-24
+C0731,Customer 0731,Consumer,South,2024-06-01
+C0732,Customer 0732,Consumer,North,2023-02-24
+C0733,Customer 0733,Consumer,East,2024-05-28
+C0734,Customer 0734,Consumer,West,2024-06-16
+C0735,Customer 0735,Consumer,North,2023-05-14
+C0736,Customer 0736,Corporate,East,2024-09-11
+C0737,Customer 0737,Consumer,West,2024-01-18
+C0738,Customer 0738,Consumer,West,2023-12-11
+C0739,Customer 0739,Consumer,West,2024-06-11
+C0740,Customer 0740,Consumer,South,2024-01-08
+C0741,Customer 0741,Consumer,West,2024-02-02
+C0742,Customer 0742,Consumer,South,2023-08-16
+C0743,Customer 0743,Home Office,South,2024-11-08
+C0744,Customer 0744,Consumer,North,2024-12-08
+C0745,Customer 0745,Consumer,South,2023-04-06
+C0746,Customer 0746,Consumer,South,2024-06-19
+C0747,Customer 0747,Consumer,South,2023-01-18
+C0748,Customer 0748,Consumer,West,2023-09-27
+C0749,Customer 0749,Corporate,South,2024-12-09
+C0750,Customer 0750,Home Office,South,2023-05-08
+C0751,Customer 0751,Consumer,North,2023-10-03
+C0752,Customer 0752,Consumer,South,2023-06-10
+C0753,Customer 0753,Consumer,South,2024-06-15
+C0754,Customer 0754,Consumer,South,2023-12-05
+C0755,Customer 0755,Corporate,North,2024-03-08
+C0756,Customer 0756,Consumer,West,2024-11-19
+C0757,Customer 0757,Consumer,West,2024-01-16
+C0758,Customer 0758,Home Office,East,2024-06-19
+C0759,Customer 0759,Consumer,East,2023-03-13
+C0760,Customer 0760,Consumer,West,2023-06-07
+C0761,Customer 0761,Corporate,West,2024-11-22
+C0762,Customer 0762,Consumer,East,2024-09-19
+C0763,Customer 0763,Consumer,West,2024-04-24
+C0764,Customer 0764,Consumer,West,2023-10-04
+C0765,Customer 0765,Home Office,West,2023-05-26
+C0766,Customer 0766,Consumer,South,2024-09-13
+C0767,Customer 0767,Consumer,North,2024-07-27
+C0768,Customer 0768,Consumer,North,2023-06-26
+C0769,Customer 0769,Consumer,South,2024-03-06
+C0770,Customer 0770,Corporate,East,2024-03-27
+C0771,Customer 0771,Consumer,South,2023-12-15
+C0772,Customer 0772,Corporate,East,2024-11-07
+C0773,Customer 0773,Corporate,East,2023-04-01
+C0774,Customer 0774,Home Office,West,2023-07-08
+C0775,Customer 0775,Consumer,North,2023-03-11
+C0776,Customer 0776,Home Office,North,2024-05-20
+C0777,Customer 0777,Corporate,West,2024-04-15
+C0778,Customer 0778,Consumer,West,2024-12-21
+C0779,Customer 0779,Corporate,West,2024-01-31
+C0780,Customer 0780,Home Office,West,2023-04-20
+C0781,Customer 0781,Consumer,West,2023-11-26
+C0782,Customer 0782,Home Office,South,2023-03-06
+C0783,Customer 0783,Consumer,South,2024-05-04
+C0784,Customer 0784,Corporate,South,2024-05-07
+C0785,Customer 0785,Home Office,East,2024-09-18
+C0786,Customer 0786,Consumer,West,2023-09-06
+C0787,Customer 0787,Corporate,South,2023-08-15
+C0788,Customer 0788,Consumer,East,2023-02-22
+C0789,Customer 0789,Corporate,South,2023-10-31
+C0790,Customer 0790,Corporate,North,2023-12-13
+C0791,Customer 0791,Consumer,North,2024-07-04
+C0792,Customer 0792,Consumer,North,2024-07-04
+C0793,Customer 0793,Consumer,West,2023-04-13
+C0794,Customer 0794,Consumer,South,2023-07-28
+C0795,Customer 0795,Consumer,West,2024-01-09
+C0796,Customer 0796,Consumer,East,2023-09-02
+C0797,Customer 0797,Consumer,North,2023-01-19
+C0798,Customer 0798,Consumer,North,2024-09-09
+C0799,Customer 0799,Corporate,West,2024-06-17
+C0800,Customer 0800,Corporate,South,2024-01-15
